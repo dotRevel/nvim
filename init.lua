@@ -5,3 +5,4 @@ require("config.lazy")
 --KANAGAWA
 -- setup must be called before loading
 --vim.cmd("colorscheme kanagawa-dragon")
+vim.cmd("colorscheme habamax")

@@ -8,14 +8,13 @@ return {
   -- ...
   --      })
 
-  --vim.cmd("colorscheme github_dark_default")
   --end,
   -- },
-  { "rebelot/kanagawa.nvim" },
-  {
-    "LazyVim/LazyVim",
-    opts = {
-      colorscheme = "kanagawa",
-    },
-  },
+  --   { "rebelot/kanagawa.nvim" },
+  --   {
+  --     "LazyVim/LazyVim",
+  --     opts = {
+  --       colorscheme = "kanagawa",
+  --     },
+  --   },
 }
